@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque nec leo a dignissim. Aenean neque ipsum, tincidunt ut orci ac, mattis blandit nisl. Integer libero justo, convallis feugiat bibendum at, consectetur a libero. Etiam ornare massa eget orci pharetra, eu eleifend augue placerat. Aenean eget odio sagittis, imperdiet libero in, sollicitudin sapien. Etiam venenatis imperdiet sem, id pretium purus hendrerit et. Praesent quam elit, condimentum ut tellus id, blandit auctor ipsum. Etiam convallis dui eget lorem aliquet, id varius enim elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent sollicitudin libero quis porta elementum. Donec magna ligula, tempus ac eros non, faucibus eleifend ligula. Morbi rutrum nunc eu metus dictum rhoncus. Etiam in tellus ex. In facilisis justo sed odio hendrerit, in molestie lacus blandit. Morbi nec metus et neque porttitor lobortis.
+
+Sed vel mattis tellus, sit amet porta tellus. Sed faucibus tellus ac ligula consectetur, non pretium lorem eleifend. Cras quam ante, efficitur ac tempus eleifend, consequat ac libero. Donec convallis finibus est, eget maximus ligula sollicitudin sed. Maecenas et ipsum feugiat, euismod libero eget, egestas libero. Praesent quis lorem dignissim, maximus nisl a, sodales quam. Maecenas mollis scelerisque augue, ac lobortis dui tempor ut. Nam turpis sem, luctus et bibendum eu, blandit eget ante.
+    </string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
